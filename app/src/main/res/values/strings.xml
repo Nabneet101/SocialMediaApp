@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gossip</string>
+    <string name="open_source"><a href="#">Open-Source?</a></string>
+</resources>
